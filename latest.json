@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "release_notes": "- Performance improvements\n- UI Enhancements\n- Minor bug fixes",
-  "download_url": "https://github.com/snehshah-tech-2004/Sigma-Controls-IntelliScan/releases/download/v1.2/Sigma.Controls.-.IntelliScan.v1.2.zip"
+  "version": "1.3.0",
+  "release_notes": "- Added Historical Replay Mode with adjustable playback speeds\n- Added Interactive Permanent Data Markers for advanced graph analysis\n- Improved Intelligent Comms Watchdog and Sensor Fault Isolation (OPE)\n- Implemented Dynamic License Tiering (Starter to Enterprise)\n- Added Automated Background Updater\n- UI enhancements including Independent Graph Channel Selection and Infinite Scroll Data Tables",
+  "download_url": "https://github.com/snehshah-tech-2004/Sigma-Controls-IntelliScan/releases/download/v1.3/Sigma.Controls.-.IntelliScan.v1.3.zip"
 }
